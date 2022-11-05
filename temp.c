@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("Hello Word");
+    
+    printf("My name is Isha  ")
     return 0;
 }
